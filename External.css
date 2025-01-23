@@ -1,0 +1,36 @@
+#chandra{
+    height: 500px;
+    width: 600px;
+    border: 2px solid rgb(22, 22, 22);
+    margin-top:55px;
+    background-color: rgb(11, 179, 230);
+
+
+}
+#ram{
+    height: 400px;
+    width: 500px;
+    border: 2px solid rgb(15, 15, 15);
+    margin-top: 30px;
+    background-color: rgb(218, 208, 15);
+
+}
+#sri{
+
+    height: 300px;
+    width: 400px;
+    border: 2px solid rgb(13, 13, 17));
+    margin-top: 30px;
+    background-color: rgb(51, 31, 224);
+
+}
+#avinash{
+    height: 200px;
+    width: 300px;
+    border: 3px solid rgb(13, 13, 17);
+    margin-top: 30px;
+    background-color:rgb(219, 10, 10);
+    
+   
+
+}
